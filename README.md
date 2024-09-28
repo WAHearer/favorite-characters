@@ -1,1 +1,1 @@
-# favorite-characters
+这是一个能够自定义事物并通过用户对这些事物喜好程度的两两比较来确定用户对这些事物的喜好程度排名的网页。也可使用在线版：http://120.26.163.231:8080/favorite-characters/index.html
